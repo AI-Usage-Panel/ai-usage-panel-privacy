@@ -1,1 +1,1 @@
-# Privacy
+# ai-usage-panel-privacy
